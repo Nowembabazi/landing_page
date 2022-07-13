@@ -1,0 +1,42 @@
+#nav-bar{
+    background-color:bisque;
+    display:inline-flex;
+    width:100%;
+
+}
+#header-img{
+    background-color: cornflowerblue;
+    width: 120px;
+    height: 120px;
+    padding-top: 0%;
+    margin-top: auto;
+    margin-right:0px;
+}
+#header{
+    font-size: 40px;
+    padding-left: 0%;
+    font-style:italic;
+    display: inline-flex;
+    color:darkslategray;
+}
+.container{
+    font-size: large;
+    margin: 0;
+    max-width: 1280px;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+ .pricing{
+    
+    padding-left: 700px;
+    padding-right: 20px;
+ }
+ .features{
+    padding-left:0px;
+    padding-right: 20px;
+ }
+ .works{
+    padding-left: 0px;
+    padding-right: 20px;
+ }
